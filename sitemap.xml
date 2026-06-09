@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ramrevparts.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://ramrevparts.com/best-ram-rev-electric-truck-parts-and-accessories.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://ramrevparts.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://ramrevparts.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://ramrevparts.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://ramrevparts.com/ramrevparts-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://ramrevparts.com/ramrevparts-worth-the-upgrade-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://ramrevparts.com/ramrevparts-explained-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://ramrevparts.com/ramrevparts-compared-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://ramrevparts.com/best-ramrevparts-without-overpaying.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://ramrevparts.com/how-to-pick-ramrevparts-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://ramrevparts.com/what-we-look-for-ramrevparts-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://ramrevparts.com/ramrevparts-practical-guide-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://ramrevparts.com/ramrevparts-tested-ranked-2026.html</loc><lastmod>2026-05-30</lastmod></url>
-  <url><loc>https://ramrevparts.com/truth-about-ramrevparts-2026.html</loc><lastmod>2026-06-02</lastmod></url>
-  <url><loc>https://ramrevparts.com/best-ramrevparts-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://ramrevparts.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
